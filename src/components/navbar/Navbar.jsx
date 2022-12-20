@@ -44,7 +44,6 @@ const Navbar = () => {
               </div>
           </div>
         )
-        // gjdjgjkskjsgj
         }
       </div>
     </div>
